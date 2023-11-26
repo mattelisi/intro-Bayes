@@ -1,0 +1,7 @@
+./refs
+./refs/*
+
+intro_bayes_examples.R
+generate_ddm_data.R
+
+.Rhistory
